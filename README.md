@@ -5,11 +5,11 @@
 
 Mycoplasma genitalium's Whole-Cell Biochemical Network
 
-[mg_net.gml](https://drive.google.com/file/d/1uVscSwq2xanq5QIfVy3qCdTnaR-qxI00)
+[mg_net.gml](https://drive.google.com/file/d/1Kemzpt2-qL9M1p5eukXOXhhOosA6A56R)
 
-[mg_net.graphml](https://drive.google.com/file/d/1gpgclafuR8s-TZIQOPk3tRNYPwQoeLj7)
+[mg_net.graphml](https://drive.google.com/file/d/1TSd2aZvxSP8XZ08orlHUGJqRBGgcu_CN)
 
-[mg_net.sbml](https://drive.google.com/file/d/1mAZa4r-onSjTzm2ubT9SzHRNJr_kq6c9)
+[mg_net.sbml](https://drive.google.com/file/d/1ygFUREGLPQ9_8lld3cnyZDexHs6IeTdA)
 
 
 DISCLAIMER: The SBML file does not contain annotations for molecules or reactions. Also, SBML does not support setting the stoichiometry for the modifiers in reactions. Thus, we always recommend to use the GML or GraphML formats.
